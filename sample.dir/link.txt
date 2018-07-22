@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -g  -rdynamic CMakeFiles/sample.dir/TestLongestIncreasingSub.cpp.o CMakeFiles/sample.dir/longestIncreasingSub.cpp.o CMakeFiles/sample.dir/TestRandomizedQuickSorted.cpp.o CMakeFiles/sample.dir/RandomizedQuickSorted.cpp.o CMakeFiles/sample.dir/main.cpp.o  -o sample 

@@ -1,0 +1,3 @@
+/home/qtran/CPLUSPLUS/CMakeFiles/rebuild_cache.dir
+/home/qtran/CPLUSPLUS/run.dir
+/home/qtran/CPLUSPLUS/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+
+PROGRAM GCD C++
+Enter how many GCD computations? 
+Enter two integers: 
+GCD(4, 6) = 2
+
+Enter two integers: 
+GCD(6, 21) = 3
+
+Enter two integers: 
+GCD(8, 20) = 4
+
+Enter two integers: 
+GCD(15, 20) = 5
